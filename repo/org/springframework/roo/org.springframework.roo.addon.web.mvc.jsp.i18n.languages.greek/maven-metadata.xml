@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.roo</groupId>
+  <artifactId>org.springframework.roo.addon.web.mvc.jsp.i18n.languages.greek</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1.2.RELEASE-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20141015003641</lastUpdated>
+  </versioning>
+</metadata>
