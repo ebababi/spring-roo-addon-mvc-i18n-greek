@@ -4,7 +4,7 @@
     <groupId>org.springframework.roo</groupId>
     <artifactId>org.springframework.roo.addon.web.mvc.jsp.i18n.languages.greek</artifactId>
     <packaging>bundle</packaging>
-    <version>0.1.0.BUILD-SNAPSHOT</version>
+    <version>0.1.0.RELEASE</version>
     <name>Spring Roo - Addon - Web MVC JSP View - Greek Translation</name>
     <organization>
         <name>Nikolaos Anastopoulos</name>
@@ -69,9 +69,9 @@
         </dependency>
     </dependencies>
     <scm>
-        <connection>scm:svn:https://${google.code.project.name}.googlecode.com/svn/trunk</connection>
-        <developerConnection>scm:svn:https://${google.code.project.name}.googlecode.com/svn/trunk</developerConnection>
-        <url>http://code.google.com/p/${google.code.project.name}/source/browse</url>
+        <connection>scm:svn:https://${google.code.project.name}.googlecode.com/svn/tags/0.1.0.RELEASE</connection>
+        <developerConnection>scm:svn:https://${google.code.project.name}.googlecode.com/svn/tags/0.1.0.RELEASE</developerConnection>
+        <url>http://code.google.com/p/${google.code.project.name}/source/browse/tags/0.1.0.RELEASE</url>
     </scm>
     <distributionManagement>
         <repository>
