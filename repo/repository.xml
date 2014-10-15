@@ -1,18 +1,18 @@
-<repository lastmodified='20141015112601.105'>
-  <resource id='org.springframework.roo.addon.web.mvc.jsp.i18n.languages.greek/0.1.1.RELEASE' symbolicname='org.springframework.roo.addon.web.mvc.jsp.i18n.languages.greek' presentationname='Spring Roo - Addon - Web MVC JSP View - Greek Translation' uri='httppgp://spring-roo-addon-mvc-i18n-greek.googlecode.com/svn/repo/org/springframework/roo/addon/web/mvc/jsp/i18n/languages/greek/org.springframework.roo.addon.web.mvc.jsp.i18n.languages.greek/0.1.1.RELEASE/org.springframework.roo.addon.web.mvc.jsp.i18n.languages.greek-0.1.1.RELEASE.jar' version='0.1.1.RELEASE'>
+<repository lastmodified='20141015112704.677'>
+  <resource id='org.springframework.roo.addon.web.mvc.jsp.i18n.languages.greek/0.1.2.RELEASE-SNAPSHOT' symbolicname='org.springframework.roo.addon.web.mvc.jsp.i18n.languages.greek' presentationname='Spring Roo - Addon - Web MVC JSP View - Greek Translation' uri='httppgp://spring-roo-addon-mvc-i18n-greek.googlecode.com/svn/repo/org/springframework/roo/addon/web/mvc/jsp/i18n/languages/greek/org.springframework.roo.addon.web.mvc.jsp.i18n.languages.greek/0.1.2.RELEASE-SNAPSHOT/org.springframework.roo.addon.web.mvc.jsp.i18n.languages.greek-0.1.2.RELEASE-SNAPSHOT.jar' version='0.1.2.RELEASE-SNAPSHOT'>
     <description>Spring Roo Add-On to provide Greek translation for Spring MVC scaffolding; #mvc,#localization,locale:el</description>
-    <size>10705</size>
+    <size>10707</size>
     <documentation>http://code.google.com/p/spring-roo-addon-mvc-i18n-greek/</documentation>
     <license>http://www.gnu.org/copyleft/gpl.html</license>
     <capability name='bundle'>
       <p n='symbolicname' v='org.springframework.roo.addon.web.mvc.jsp.i18n.languages.greek'/>
       <p n='presentationname' v='Spring Roo - Addon - Web MVC JSP View - Greek Translation'/>
-      <p n='version' t='version' v='0.1.1.RELEASE'/>
+      <p n='version' t='version' v='0.1.2.RELEASE-SNAPSHOT'/>
       <p n='manifestversion' v='2'/>
     </capability>
     <capability name='package'>
       <p n='package' v='org.springframework.roo.addon.web.mvc.jsp.i18n.languages.greek'/>
-      <p n='version' t='version' v='0.0.0'/>
+      <p n='version' t='version' v='0.1.2.RELEASE-SNAPSHOT'/>
       <p n='uses:' v='org.springframework.roo.support.util,org.springframework.roo.addon.web.mvc.jsp.i18n'/>
     </capability>
     <require name='package' filter='(&amp;(package=org.springframework.roo.addon.web.mvc.jsp.i18n)(version&gt;=1.2.0)(!(version&gt;=2.0.0)))' extend='false' multiple='false' optional='false'>Import package org.springframework.roo.addon.web.mvc.jsp.i18n;version="[1.2,2)"</require>
