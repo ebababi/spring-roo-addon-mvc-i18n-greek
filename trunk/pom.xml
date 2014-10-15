@@ -4,7 +4,7 @@
     <groupId>org.springframework.roo</groupId>
     <artifactId>org.springframework.roo.addon.web.mvc.jsp.i18n.languages.greek</artifactId>
     <packaging>bundle</packaging>
-    <version>0.1.1.RELEASE</version>
+    <version>0.1.2.RELEASE-SNAPSHOT</version>
     <name>Spring Roo - Addon - Web MVC JSP View - Greek Translation</name>
     <organization>
         <name>Nikolaos Anastopoulos</name>
@@ -69,9 +69,9 @@
         </dependency>
     </dependencies>
     <scm>
-        <connection>scm:svn:https://${google.code.project.name}.googlecode.com/svn/tags/org.springframework.roo.addon.web.mvc.jsp.i18n.languages.greek-0.1.1.RELEASE-SNAPSHOT</connection>
-        <developerConnection>scm:svn:https://${google.code.project.name}.googlecode.com/svn/tags/org.springframework.roo.addon.web.mvc.jsp.i18n.languages.greek-0.1.1.RELEASE-SNAPSHOT</developerConnection>
-        <url>http://code.google.com/p/${google.code.project.name}/source/browse/tags/org.springframework.roo.addon.web.mvc.jsp.i18n.languages.greek-0.1.1.RELEASE-SNAPSHOT</url>
+        <connection>scm:svn:https://spring-roo-addon-mvc-i18n-greek.googlecode.com/svn/trunk</connection>
+        <developerConnection>scm:svn:https://spring-roo-addon-mvc-i18n-greek.googlecode.com/svn/trunk</developerConnection>
+        <url>http://code.google.com/p/spring-roo-addon-mvc-i18n-greek/source/browse</url>
     </scm>
     <distributionManagement>
         <repository>
