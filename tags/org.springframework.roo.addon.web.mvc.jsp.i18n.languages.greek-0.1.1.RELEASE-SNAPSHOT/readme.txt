@@ -1,0 +1,1 @@
+Spring Roo Add-On to provide Greek translation for Spring MVC scaffolding.
